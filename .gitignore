@@ -1,0 +1,7 @@
+# Ignore Eagle backup files
+*.b#?
+*.s#?
+*.l#?
+
+.DS_Store
+
